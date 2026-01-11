@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #47b2e4;
+  background: #ce038a;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -1347,7 +1347,7 @@ section {
   padding: 10px 12px;
 }
 .contact .php-email-form button[type=submit] {
-  background: #47b2e4;
+  background: #ce038a;
   border: 0;
   padding: 12px 34px;
   color: #fff;
@@ -1355,7 +1355,7 @@ section {
   border-radius: 50px;
 }
 .contact .php-email-form button[type=submit]:hover {
-  background: #209dd8;
+  background: rgba(231, 6, 133, 0.9);
 }
 @-webkit-keyframes animate-loading {
   0% {
