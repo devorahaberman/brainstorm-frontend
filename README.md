@@ -26,6 +26,16 @@ Features: Home, About, Card List, Create Card, Sign Up, Log In, Log Out, Ideas L
 
 Forms: Contact us form (not yet operational) 
 
+## Deployment to GitHub Pages
+
+To deploy this website to GitHub Pages:
+
+1. Ensure the repository is pushed to GitHub.
+2. Run `npm run deploy` to build and deploy to the `gh-pages` branch.
+3. In the GitHub repository settings, go to Pages, and set the source to "Deploy from a branch", select `gh-pages` branch and `/ (root)` folder.
+
+The site will be available at `https://<username>.github.io/<repo-name>/`
+
 .
 
 Any questions? Reach out to me at:
