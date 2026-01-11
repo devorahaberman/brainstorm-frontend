@@ -110,10 +110,10 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
-  background: rgba(231, 6, 133, 0.9);
+  background: #31a9e1;
 }
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(231, 6, 133, 0.9);
+  background: #31a9e1;
 }
 #header .logo {
   font-size: 30px;
@@ -180,7 +180,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #ce038a;
+  background: #31a9e1;
 }
 .navbar .dropdown ul {
   display: block;
@@ -193,7 +193,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
   visibility: hidden;
   background: #fff;
-  box-shadow: 0px 0px 30px rgba(231, 6, 133, 0.9);
+  box-shadow: 0px 0px 30px #31a9e1;
   transition: 0.3s;
   border-radius: 4px;
 }
