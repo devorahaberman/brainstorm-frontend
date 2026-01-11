@@ -1,0 +1,25 @@
+/* Centralized color variables (generated)
+   - Add this file to your main stylesheet or import it where needed.
+*/
+:root {
+  /* Project brand colors */
+  --brand-text: #444444;
+  --brand-blue: #47b2e4;
+  --brand-blue-light: #73c5eb;
+  --brand-blue-2: #6bc1e9;
+  --brand-blue-3: #ce038a;
+  --brand-accent: #31a9e1;
+  --brand-accent-rgba: rgba(231, 6, 133, 0.9);
+  --brand-white: #ffffff;
+  --brand-green: #42b983;
+
+  /* Bootstrap reference variables (kept for convenience) */
+  --bs-primary: #0d6efd;
+  --bs-secondary: #6c757d;
+  --bs-success: #198754;
+  --bs-info: #0dcaf0;
+  --bs-warning: #ffc107;
+  --bs-danger: #dc3545;
+  --bs-light: #f8f9fa;
+  --bs-dark: #212529;
+}

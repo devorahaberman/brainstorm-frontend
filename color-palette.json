@@ -1,0 +1,93 @@
+{
+  "colors": [
+    {
+      "name": "brand-text",
+      "value": "#444444",
+      "sources": ["public/assets/css/style.css: color: #444444"]
+    },
+    {
+      "name": "brand-blue",
+      "value": "#47b2e4",
+      "sources": ["public/assets/css/style.css: color: #47b2e4"]
+    },
+    {
+      "name": "brand-blue-light",
+      "value": "#73c5eb",
+      "sources": ["public/assets/css/style.css: color: #73c5eb"]
+    },
+    {
+      "name": "brand-blue-2",
+      "value": "#6bc1e9",
+      "sources": ["public/assets/css/style.css: background: #6bc1e9"]
+    },
+    {
+      "name": "brand-blue-3",
+      "value": "#ce038a",
+      "sources": ["public/assets/css/style.css: background: #ce038a"]
+    },
+    {
+      "name": "brand-accent",
+      "value": "#31a9e1",
+      "sources": [
+        "public/assets/css/style.css: background: #31a9e1",
+        "public/assets/css/style.css: border: 6px solid #31a9e1"
+      ]
+    },
+    {
+      "name": "brand-accent-rgba",
+      "value": "rgba(231,6,133,0.9)",
+      "sources": ["public/assets/css/style.css: background: rgba(231, 6, 133, 0.9)"]
+    },
+    {
+      "name": "white",
+      "value": "#ffffff",
+      "sources": ["public/assets/css/style.css: #fff / #ffffff"]
+    },
+    {
+      "name": "brand-green",
+      "value": "#42b983",
+      "sources": ["src/components/HelloWorld.vue: color: #42b983"]
+    },
+
+    {
+      "name": "bootstrap-primary",
+      "value": "#0d6efd",
+      "sources": ["public/assets/vendor/bootstrap/css/bootstrap.rtl.min.css: --bs-primary"]
+    },
+    {
+      "name": "bootstrap-secondary",
+      "value": "#6c757d",
+      "sources": ["public/assets/vendor/bootstrap/css/bootstrap.rtl.min.css: --bs-secondary"]
+    },
+    {
+      "name": "bootstrap-success",
+      "value": "#198754",
+      "sources": ["public/assets/vendor/bootstrap/css/bootstrap.rtl.min.css: --bs-success"]
+    },
+    {
+      "name": "bootstrap-info",
+      "value": "#0dcaf0",
+      "sources": ["public/assets/vendor/bootstrap/css/bootstrap.rtl.min.css: --bs-info"]
+    },
+    {
+      "name": "bootstrap-warning",
+      "value": "#ffc107",
+      "sources": ["public/assets/vendor/bootstrap/css/bootstrap.rtl.min.css: --bs-warning"]
+    },
+    {
+      "name": "bootstrap-danger",
+      "value": "#dc3545",
+      "sources": ["public/assets/vendor/bootstrap/css/bootstrap.rtl.min.css: --bs-danger"]
+    },
+    {
+      "name": "bootstrap-light",
+      "value": "#f8f9fa",
+      "sources": ["public/assets/vendor/bootstrap/css/bootstrap.rtl.min.css: --bs-light"]
+    },
+    {
+      "name": "bootstrap-dark",
+      "value": "#212529",
+      "sources": ["public/assets/vendor/bootstrap/css/bootstrap.rtl.min.css: --bs-dark"]
+    }
+  ]
+}
