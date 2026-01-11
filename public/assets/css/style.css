@@ -367,7 +367,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #47b2e4;
 }
 #hero .btn-get-started:hover {
-  background: #209dd8;
+  background: #ce038a;
 }
 #hero .btn-watch-video {
   font-size: 16px;
@@ -386,7 +386,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 8px;
 }
 #hero .btn-watch-video:hover i {
-  color: #47b2e4;
+  color: #ce038a;
 }
 #hero .animated {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
@@ -560,14 +560,14 @@ section {
   border-radius: 4px;
   transition: 0.3s;
   line-height: 1;
-  color: #47b2e4;
+  color: #ce038a;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   margin-top: 6px;
-  border: 2px solid #47b2e4;
+  border: 2px solid #ce038a;
 }
 .about .content .btn-learn-more:hover {
-  background: #47b2e4;
+  background: #ce038a;
   color: #fff;
   text-decoration: none;
 }
